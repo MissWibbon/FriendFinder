@@ -480,9 +480,9 @@ var friends = [
     ]
     },
     {
-    "name": "v",
-    "photo": "http://www.freakingnews.com/pictures/130500/Aligator--130727.jpg",
-    "scores": [
+        "name": "boyang matsapola",
+        "photo": "https://miro.medium.com/max/736/1*1e8i4KFLv8IOBTkKtCD08A.jpeg",
+        "scores": [
     "2",
     "2",
     "2",
@@ -496,9 +496,9 @@ var friends = [
     ]
     },
     {
-    "name": "v",
-    "photo": "http://www.freakingnews.com/pictures/130500/Aligator--130727.jpg",
-    "scores": [
+        "name": "boyang matsapola",
+        "photo": "https://miro.medium.com/max/736/1*1e8i4KFLv8IOBTkKtCD08A.jpeg",
+       "scores": [
     "2",
     "2",
     "4",
@@ -528,9 +528,9 @@ var friends = [
     ]
     },
     {
-    "name": "Test Subject",
-    "photo": "http://www.freakingnews.com/pictures/130500/Aligator--130727.jpg",
-    "scores": [
+        "name": "boyang matsapola",
+        "photo": "https://miro.medium.com/max/736/1*1e8i4KFLv8IOBTkKtCD08A.jpeg",
+       "scores": [
     "3",
     "3",
     "3",
@@ -544,9 +544,9 @@ var friends = [
     ]
     },
     {
-    "name": "test",
-    "photo": "http://www.freakingnews.com/pictures/130500/Aligator--130727.jpg",
-    "scores": [
+        "name": "boyang matsapola",
+        "photo": "https://miro.medium.com/max/736/1*1e8i4KFLv8IOBTkKtCD08A.jpeg",
+        "scores": [
     "3",
     "3",
     "3",
